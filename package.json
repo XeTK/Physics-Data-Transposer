@@ -1,0 +1,15 @@
+{
+  "name": "daniel.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "dependencies": {
+    "mathjs": "^1.4.0"
+  },
+  "devDependencies": {},
+  "author": "Tom Rosier (tom.rosier92@gmail.com)",
+  "license": "GPL V3"
+}
